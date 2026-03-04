@@ -1,3 +1,7 @@
 app/__pycache__/
 app/**/__pycache__/
-my_agent/.env
+my_weather_agent/.env
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
